@@ -1,0 +1,35 @@
+body {
+background-color: #F9FF2B;
+margin: 0 10%;
+}
+h1 {
+text-align: center;
+font-size: 4em;
+font-family: MonteCarlo;
+color: #CA0000;
+border-bottom: 8px solid #F70C0C;
+margin-top: 30px;
+}
+h2 {
+text-align: center;
+font-family: Bebas Neue;
+color: #F1AD13;
+text-shadow: 2px 2px #000000;
+font-size: 3em;
+}
+h3 {
+text-align: center;
+font-family: heebo;
+font-size: 2em;
+}
+p {
+text-align: center;
+font-family: heebo;
+font-size: 1.5em;
+}
+body img{
+border-left: 10px solid #F5120C;
+border-right: 10px solid #F5120C;
+border-top: 10px solid #F5120C;
+border-bottom: 10px solid #F5120C;
+}

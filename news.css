@@ -1,0 +1,45 @@
+body {
+background-color: #F9FF2B;
+margin: 0 10%;
+}
+h1 {
+text-align: center;
+font-size: 4em;
+font-family: MonteCarlo;
+color: #CA0000;
+border-bottom: 8px solid #F70C0C;
+margin-top: 30px;
+}
+h2 {
+text-align: center;
+font-family: Bebas Neue;
+color: #F1AD13;
+text-shadow: 2px 2px #000000;
+font-size: 3em;
+}
+ul {
+text-align: center;
+font-family: heebo;
+font-size: 3em;
+}
+p {
+text-align: center;
+font-family: heebo;
+font-size: 1.5em;
+}
+h3 {
+text-align: center;
+font-family: times new roman;
+color: #9D3809;
+font-size: 1.8em;
+}
+dt{
+text-align: center;
+font-family: Roboto;
+font-size: 1.3em
+}
+dd {
+text-align: center;
+font-family: calibri;
+font-size: 1em;
+}
